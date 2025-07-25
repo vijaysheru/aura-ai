@@ -73,9 +73,11 @@ User: "Aurai, I had a rough day. Feeling overwhelmed."
 → Response logged to memory and followed up later.
 ```
 
+```bash
 git clone https://github.com/vijaysheru/aurai-ai-voice-wellness
 cd aurai-ai-voice-wellness
 pip install -r requirements.txt
 
 # Run locally (WIP)
 streamlit run app.py
+```
